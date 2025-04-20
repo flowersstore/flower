@@ -122,6 +122,7 @@ header ul li a {
     margin: 20px 0;
     background-color: var(--main-color);
     box-shadow: 0 0 3px #aaa;
+    padding:10px
 }
 .about-content > h1 span {
     color: #fff;
