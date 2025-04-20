@@ -1,4 +1,4 @@
-* {
+on* {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -328,7 +328,7 @@ header ul li a {
     margin: 14px 0;
     font-size: 22px;
     color: var(--secound-color);
-    padding-butoom:10px;
+    padding-bottom:10px;
 }
 .content-reviews .reviews .box .start span {
     -webkit-text-stroke: 1px #9e2bb1;
