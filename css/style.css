@@ -89,6 +89,7 @@ header ul li a {
 }
 .landind-content .all h1 {
     color: #fff;
+    text-align: centre;
     
 }
 .landind-content .all h1 span {
@@ -327,7 +328,7 @@ header ul li a {
 }
 .content-reviews .reviews .box .start {
     text-align: center;
-    margin: 20px 0;
+    margin: 14px 0;
     font-size: 22px;
     color: var(--secound-color);
     
