@@ -399,6 +399,7 @@ header ul li a {
     display: block;
     border-radius: 6px;
     margin: 0 auto;
+    font-weight: bold;
 }
 .contact-us form input[type="submit"]:hover {
     background-color: var(--main-color);
