@@ -328,6 +328,7 @@ header ul li a {
     margin: 14px 0;
     font-size: 22px;
     color: var(--secound-color);
+    padding:10px;
 }
 .content-reviews .reviews .box .start span {
     -webkit-text-stroke: 1px #9e2bb1;
