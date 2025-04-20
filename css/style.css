@@ -332,6 +332,7 @@ header ul li a {
     margin: 14px 0;
     font-size: 22px;
     color: var(--secound-color);
+    margin-bottom:20px;
     
 }
 .content-reviews .reviews .box .start span {
