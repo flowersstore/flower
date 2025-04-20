@@ -120,10 +120,10 @@ header ul li a {
 }
 .about-content > h1 {
     text-align: center;
-    margin: 20px 0;
+    margin: 25px 0;
     background-color: var(--main-color);
     box-shadow: 0 0 3px #aaa;
-    margin-putoom:10px
+    
 }
 .about-content > h1 span {
     color: #fff;
@@ -328,7 +328,7 @@ header ul li a {
     margin: 14px 0;
     font-size: 22px;
     color: var(--secound-color);
-    padding:10px;
+    padding-butoom:10px;
 }
 .content-reviews .reviews .box .start span {
     -webkit-text-stroke: 1px #9e2bb1;
