@@ -1,4 +1,4 @@
-kion* {
+* {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -123,6 +123,7 @@ header ul li a {
     margin: 25px 0;
     background-color: var(--main-color);
     box-shadow: 0 0 3px #aaa;
+    
     
     
 }
@@ -326,7 +327,7 @@ header ul li a {
 }
 .content-reviews .reviews .box .start {
     text-align: center;
-    margin: 14px 0;
+    margin: 20px 0;
     font-size: 22px;
     color: var(--secound-color);
     
