@@ -324,7 +324,7 @@ header ul li a {
     width: 50%;
 }
 .content-reviews .reviews .box p {
-    font-size: 7px;
+    font-size: 9px;
     text-align: center;
 }
 .content-reviews .reviews .box .start {
@@ -399,12 +399,14 @@ header ul li a {
     display: block;
     border-radius: 6px;
     margin: 0 auto;
+    font-size:15px;
+    font-weight: bold;
     
 }
 .contact-us form input[type="submit"]:hover {
     background-color: var(--main-color);
     cursor: pointer;
-    font-weight: bold;
+    
 }
 .contact-us .image {
     position: relative;
