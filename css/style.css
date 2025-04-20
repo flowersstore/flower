@@ -86,10 +86,11 @@ header ul li a {
     display: grid;
     justify-items: center;
     padding: 120px 0;
+    text-align: center;
 }
 .landind-content .all h1 {
     color: #fff;
-    text-align: center;
+    
     
 }
 .landind-content .all h1 span {
