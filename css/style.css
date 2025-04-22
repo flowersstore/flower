@@ -57,7 +57,7 @@ header ul li {
 }
 header ul li:hover a,
 header ul li a.active {
-    border: 2px solid var(--secound-color);
+    border-bottom: 1px solid var(--secound-color);
 }
 header ul li a {
     color: #fff;
