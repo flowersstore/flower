@@ -26,24 +26,6 @@ header {
     z-index: 2;
     box-shadow:0px 0px 5px 0px #8e8e8e;
 }
-header.&#9776{
-    font-size: 3px;
-    color:#333;
-    border-radius: .5px;
-    padding:.5px 1.5px;
-    cursor:pointer;
-    border:1px solid #000;
-    display:none;}
-    header.navbar a{
-        margin:1.5px;
-        padding:1.5px;
-        background: weight;
-        border:1px solid #000;
-        display:blok;
-    }
-header.navbar{
-    clip-path: polygon(0%0%,100%0%,100%0%,0%0%);
-}
 
 header .logo,
 footer .logo {
@@ -75,7 +57,7 @@ header ul li {
 }
 header ul li:hover a,
 header ul li a.active {
-    border-bottom: 2px solid var(--secound-color);
+    border: 2px solid var(--secound-color);
 }
 header ul li a {
     color: #fff;
